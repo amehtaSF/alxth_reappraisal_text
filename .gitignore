@@ -88,5 +88,7 @@
 # Keep READMEs
 !**/README.md
 
+!**/*codebook.csv
+
 # ------- End generated .gitignore ------ #
 
