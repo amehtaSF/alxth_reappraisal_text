@@ -1,0 +1,92 @@
+
+# ----------------------------------------------------------- #
+# ---  Generated .gitignore file with create_gitignore.sh --- #
+# ------- User: ashish - Timestamp: 2021-01-24 19:09:53 ----- #
+# ----------------------------------------------------------- #
+
+# Mac files
+**/*.DS_Store
+
+# PyCharm
+**/*.idea
+
+# Virtualenv
+**/venv/
+**/env/
+
+# RStudio
+**/*.RData
+**/.Ruserdata
+**/.Rhistory
+**/*.Rproj.user
+**/*.Rproj.user*
+# **/*.Rproj
+**/*.Rapp.history
+
+# Big Data
+**/*.mwi
+**/*.mwx
+**/*.bdf
+**/*.edf
+**/*.db
+**/*.h5
+**/*.hdf5
+
+# Data
+**/*.csv
+**/*.tsv
+**/*.xlsx
+**/*.mat
+**/*.sav
+
+# Compressed
+**/*.tar
+**/*.zip
+**/*.rar
+
+# Data
+**/raw/*
+**/proc/*
+
+# MS Office
+**/*.pptx
+**/*.docx
+**/*.xlsx
+
+# Images
+**/*.jpg
+**/*.jpeg
+**/*.png
+**/*.bmp
+**/*.gif
+**/*.tiff
+
+# Sound
+**/*.wav
+**/*.aac
+**/*.ogg
+**/*.mp3
+**/*.aiff
+**/*.flac
+
+# LaTeX/Sweave
+**/*.tex
+**/*.synctex.gz
+
+# PDF
+**/*.pdf
+
+# Logs
+**/*.log
+
+# Authorization keys
+**/*.httr-oauth
+
+# Python Eggs
+*.egg-info/
+
+# Keep READMEs
+!**/README.md
+
+# ------- End generated .gitignore ------ #
+
