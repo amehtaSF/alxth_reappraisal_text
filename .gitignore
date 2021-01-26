@@ -20,7 +20,7 @@
 **/.Rhistory
 **/*.Rproj.user
 **/*.Rproj.user*
-# **/*.Rproj
+**/*.Rproj
 **/*.Rapp.history
 
 # Big Data
